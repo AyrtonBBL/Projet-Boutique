@@ -1,0 +1,14 @@
+{
+  "id": "carte-001",
+  "name": "Vito Legendaire",
+  "rarity": "Legendaire",
+  "description": "Une description  longue",
+  "stock": 10,
+  "price": 1000,
+  "currency": "Y-credit",
+  "images": ["img1.jpg", "img2.jpg"],
+  "variants": {
+    "colors": ["Holographique", "Classique"],
+    "type": "en feu"
+  }
+}
