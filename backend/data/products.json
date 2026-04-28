@@ -1,14 +1,17 @@
-{
-  "id": "carte-001",
-  "name": "Vito Legendaire",
-  "rarity": "Legendaire",
-  "description": "Une description  longue",
-  "stock": 10,
-  "price": 1000,
-  "currency": "Y-credit",
-  "images": ["img1.jpg", "img2.jpg"],
-  "variants": {
-    "colors": ["Holographique", "Classique"],
-    "type": "en feu"
+[
+  {
+    "id": "carte-001",
+    "name": "Vito Yakuza",
+    "rarity": "Legendaire",
+    "description": "Le redoutable Vito Yakuza règne sur la Cité des Données. Avec son Serment de Données, il peut manipuler les flux d'informations pour récupérer des cartes précieuses depuis votre zone de défausse. Son charisme et ses tatouages technologiques en font l'un des chefs les plus respectés et craints du serveur central. Une légende raconte qu'il ne dort jamais pour surveiller les bases de données critiques.",
+    "stock": 10,
+    "price": 1000,
+    "currency": "Y-credit",
+    "images": ["vito-front.png", "vito-back.png"],
+    "variants": {
+      "colors": ["Holographique", "Classique", "Gold"],
+      "type": "Chef",
+      "element": "Neutre"
+    }
   }
-}
+]
