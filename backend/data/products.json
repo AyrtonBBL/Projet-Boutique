@@ -7,7 +7,7 @@
     "stock": 10,
     "price": 1000,
     "currency": "Y-credit",
-    "images": ["vito-front.png", "vito-back.png"],
+    "images": ["Vito_Yakuza.png"],
     "variants": {
       "colors": ["Holographique", "Classique", "Gold"],
       "type": "Chef",
