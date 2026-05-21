@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Y-Shop - Collection TCG</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <h1>Y-Shop : Collection Vito TCG</h1>
+    <nav>
+        <button id="cart-btn">Panier (0)</button>
+        <button id="fav-btn">Mes Favoris</button>
+    </nav>
+</header>
+
+<section class="filters">
+    <select id="rarity-filter">
+        <option value="all">Toutes les raretés</option>
+        <option value="Basique">Basique</option>
+        <option value="Peu commun">Peu commun</option>
+        <option value="Rare">Rare</option>
+        <option value="Legendaire">Légendaire</option>
+        <option value="Secret">Secret</option>
+    </select>
+</section>
+
+<main>
+    <div id="catalog-container"></div>
+</main>
+
+<script src="js/main.js"></script>
+</body>
+</html>
