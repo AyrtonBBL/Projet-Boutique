@@ -23,8 +23,8 @@ function displayCatalog(products) {
         card.classList.add('product-card');
 
         const img = document.createElement('img');
-        const defaultImage = `${API_URL}${product.images[0]}`;
-        const hoverImage = product.images[1] ? `${API_URL}${product.images[1]}` : defaultImage;
+        const defaultImage = `${API_URL}/images/${product.images[0]}`;
+        const hoverImage = product.images[1] ? `${API_URL}/images/${product.images[1]}` : defaultImage;
 
         img.src = defaultImage;
         img.alt = product.name;
