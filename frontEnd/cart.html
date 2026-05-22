@@ -1,10 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Panier - Y-Shop</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-$END$
+<header>
+    <h1><a href="index.html" class="logo-link">TCG VITO - Collection</a></h1>
+    <nav>
+        <button id="cart-btn" class="nav-btn">Panier (0)</button>
+        <button id="fav-btn" class="nav-btn">Mes Favoris (0)</button>
+    </nav>
+</header>
+
+<main class="main-content">
+    <div class="back-nav">
+        <a href="index.html" class="btn back-btn">Retour au catalogue</a>
+    </div>
+
+    <div class="product-details-layout">
+        <h2>Votre Panier</h2>
+        <div id="cart-container" style="width: 100%;"></div>
+        <div id="cart-summary" style="width: 100%; margin-top: 20px; text-align: right;"></div>
+    </div>
+</main>
+
+<script src="js/cart.js"></script>
 </body>
 </html>

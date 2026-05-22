@@ -1,276 +1,265 @@
 [
   {
-  "id": "carte-003",
-  "name": "Vito Lunettes de Soleil",
-  "rarity": "Basique",
-  "description": "Même s'il travaille dans les profondeurs des salles de serveurs où le soleil ne brille jamais, ce Vito porte toujours ses lunettes noires. Il prétend que c'est pour se protéger de la redoutable lumière bleue des écrans, mais tout le monde sait qu'il veut juste avoir l'air cool pendant qu'il compile son code. Ne vous attendez pas à des miracles, c'est juste un gars très sympa avec un excellent sens du style.",
-  "stock": 50,
-  "price": 50,
-  "currency": "Y-credit",
-  "images": ["Vito_Soleil.png"],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Mat"
+    "id": "carte-003",
+    "name": "Vito Lunettes de Soleil",
+    "rarity": "Basique",
+    "description": "Même s'il travaille dans les profondeurs des salles de serveurs où le soleil ne brille jamais, ce Vito porte toujours ses lunettes noires. Il prétend que c'est pour se protéger de la redoutable lumière bleue des écrans, mais tout le monde sait qu'il veut juste avoir l'air cool pendant qu'il compile son code. Ne vous attendez pas à des miracles, c'est juste un gars très sympa avec un excellent sens du style.",
+    "stock": 46,
+    "price": 50,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Soleil.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-004",
-  "name": "Vito Hawaï",
-  "rarity": "Basique",
-  "description": "Même au cœur des data centers les plus froids et bruyants, Vito Hawaï apporte une touche de chaleur estivale. Avec sa chemise à fleurs aux motifs de serveurs et de nuages, il détend l'atmosphère lors des pannes réseau. Il n'a peut-être aucune compétence de combat ou de piratage, mais sa simple présence remonte le moral des troupes. Un allié indispensable pour garder le sourire sous la pression.",
-  "stock": 40,
-  "price": 50,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Hawai.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Frais"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Mat"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-004",
+    "name": "Vito Hawaï",
+    "rarity": "Basique",
+    "description": "Même au cœur des data centers les plus froids et bruyants, Vito Hawaï apporte une touche de chaleur estivale. Avec sa chemise à fleurs aux motifs de serveurs et de nuages, il détend l'atmosphère lors des pannes réseau. Il n'a peut-être aucune compétence de combat ou de piratage, mais sa simple présence remonte le moral des troupes. Un allié indispensable pour garder le sourire sous la pression.",
+    "stock": 39,
+    "price": 50,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Hawai.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-005",
-  "name": "Vito Grand Père",
-  "rarity": "Basique",
-  "description": "Vito Grand Père est la mémoire vivante de la Cité des Données. Avec son gilet tricoté et son regard bienveillant, il se promène dans les allées de serveurs en racontant des histoires sur l'époque lointaine où l'on codait sur des cartes perforées. Bien qu'il n'ait aucune capacité de combat, sa grande sagesse et ses conseils réconfortants apaisent les esprits des jeunes développeurs stressés.",
-  "stock": 35,
-  "price": 40,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_GrandPere.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Sépia"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Frais"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-005",
+    "name": "Vito Grand Père",
+    "rarity": "Basique",
+    "description": "Vito Grand Père est la mémoire vivante de la Cité des Données. Avec son gilet tricoté et son regard bienveillant, il se promène dans les allées de serveurs en racontant des histoires sur l'époque lointaine où l'on codait sur des cartes perforées. Bien qu'il n'ait aucune capacité de combat, sa grande sagesse et ses conseils réconfortants apaisent les esprits des jeunes développeurs stressés.",
+    "stock": 35,
+    "price": 40,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_GrandPere.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-006",
-  "name": "Vito Costard",
-  "rarity": "Basique",
-  "description": "Toujours tiré à quatre épingles, Vito Costard prouve qu'on peut gérer des bases de données avec une élégance absolue. Il refuse d'approcher un câble Ethernet sans porter son meilleur costume sur mesure et sa cravate assortie. Bien qu'il n'ait aucune capacité de combat ou de hacking, son professionnalisme impeccable impressionne les investisseurs lors des visites de la Cité des Données. Le summum de la classe informatique.",
-  "stock": 45,
-  "price": 60,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Costard.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Gris Anthracite"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Sépia"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-006",
+    "name": "Vito Costard",
+    "rarity": "Basique",
+    "description": "Toujours tiré à quatre épingles, Vito Costard prouve qu'on peut gérer des bases de données avec une élégance absolue. Il refuse d'approcher un câble Ethernet sans porter son meilleur costume sur mesure et sa cravate assortie. Bien qu'il n'ait aucune capacité de combat ou de hacking, son professionnalisme impeccable impressionne les investisseurs lors des visites de la Cité des Données. Le summum de la classe informatique.",
+    "stock": 45,
+    "price": 60,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Costard.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-007",
-  "name": "Vito Basique",
-  "rarity": "Basique",
-  "description": "Voici Vito dans sa forme la plus pure et classique. Sans artifice, ni costume extravagant, il représente le socle fondamental de la Cité des Données. C'est juste Vito, fidèle au poste, prêt à redémarrer un serveur récalcitrant ou à vérifier les logs d'erreurs. Il ne possède aucune capacité de combat exceptionnelle, mais sa présence constante est la garantie d'un système stable. Un indispensable pour tout deck qui se respecte.",
-  "stock": 60,
-  "price": 30,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Basique.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Holographique léger"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Gris Anthracite"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-007",
+    "name": "Vito Basique",
+    "rarity": "Basique",
+    "description": "Voici Vito dans sa forme la plus pure et classique. Sans artifice, ni costume extravagant, il représente le socle fondamental de la Cité des Données. C'est juste Vito, fidèle au poste, prêt à redémarrer un serveur récalcitrant ou à vérifier les logs d'erreurs. Il ne possède aucune capacité de combat exceptionnelle, mais sa présence constante est la garantie d'un système stable. Un indispensable pour tout deck qui se respecte.",
+    "stock": 60,
+    "price": 30,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Basique.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-008",
-  "name": "Vito Barbe Rasé",
-  "rarity": "Basique",
-  "description": "Après une longue nuit passée à débugger une application critique, Vito a décidé de faire table rase du passé, en commençant par sa pilosité faciale. Bien que cette nouvelle apparence aérodynamique ne lui confère aucune compétence de combat ou de piratage supplémentaire, elle lui permet de glisser plus facilement entre les racks de serveurs surchauffés. Un classique indémodable, parfait pour assurer la maintenance quotidienne du réseau.",
-  "stock": 55,
-  "price": 35,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_BarbeRase.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Mat"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Holographique léger"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-008",
+    "name": "Vito Barbe Rasé",
+    "rarity": "Basique",
+    "description": "Après une longue nuit passée à débugger une application critique, Vito a décidé de faire table rase du passé, en commençant par sa pilosité faciale. Bien que cette nouvelle apparence aérodynamique ne lui confère aucune compétence de combat ou de piratage supplémentaire, elle lui permet de glisser plus facilement entre les racks de serveurs surchauffés. Un classique indémodable, parfait pour assurer la maintenance quotidienne du réseau.",
+    "stock": 55,
+    "price": 35,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_BarbeRase.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-009",
-  "name": "Vito Adolescent",
-  "rarity": "Peu Commun",
-  "description": "Bien avant de régner sur la Cité des Données, Vito n'était qu'un jeune passionné découvrant ses premiers scripts dans le garage de ses parents. Avec sa veste en jean délavée et son enthousiasme débordant, il passait ses nuits à explorer les réseaux naissants. Bien qu'il ne possède pas encore de réelles capacités de combat, sa soif d'apprendre est contagieuse et insuffle une énergie nouvelle à toute votre équipe de développeurs.",
-  "stock": 25,
-  "price": 150,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Adolescent.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Style Rétro"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Mat"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-009",
+    "name": "Vito Adolescent",
+    "rarity": "Peu Commun",
+    "description": "Bien avant de régner sur la Cité des Données, Vito n'était qu'un jeune passionné découvrant ses premiers scripts dans le garage de ses parents. Avec sa veste en jean délavée et son enthousiasme débordant, il passait ses nuits à explorer les réseaux naissants. Bien qu'il ne possède pas encore de réelles capacités de combat, sa soif d'apprendre est contagieuse et insuffle une énergie nouvelle à toute votre équipe de développeurs.",
+    "stock": 25,
+    "price": 150,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Adolescent.png"
     ],
-    "type": "Allié",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-010",
-  "name": "Vito gros yeux",
-  "rarity": "Peu Commun",
-  "description": "Vito gros yeux possède un regard qui semble traverser les couches de firewall les plus denses. On raconte qu'il peut repérer une erreur de syntaxe dans un millier de lignes de code d'un simple clin d'œil. Cette capacité d'observation hors du commun lui permet d'anticiper les mouvements de ses adversaires en scrutant leurs intentions les plus profondes. Bien qu'il reste pacifique, son regard insondable suffit généralement à déstabiliser n'importe quel hacker débutant.",
-  "stock": 20,
-  "price": 250,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Pleure.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Iris Brillant"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Style Rétro"
+      ],
+      "type": "Allié",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-010",
+    "name": "Vito gros yeux",
+    "rarity": "Peu Commun",
+    "description": "Vito gros yeux possède un regard qui semble traverser les couches de firewall les plus denses. On raconte qu'il peut repérer une erreur de syntaxe dans un millier de lignes de code d'un simple clin d'œil. Cette capacité d'observation hors du commun lui permet d'anticiper les mouvements de ses adversaires en scrutant leurs intentions les plus profondes. Bien qu'il reste pacifique, son regard insondable suffit généralement à déstabiliser n'importe quel hacker débutant.",
+    "stock": 20,
+    "price": 250,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Pleure.png"
     ],
-    "type": "Observateur",
-    "element": "Insondable"
-  }
-},
-
-{
-  "id": "carte-011",
-  "name": "Vito marcelle gros bras",
-  "rarity": "Peu Commun",
-  "description": "Vito marcelle gros bras n'est pas seulement un expert en culture de données, c'est aussi le protecteur physique des serres numériques. Ses bras massifs ne servent pas qu'à porter des sacs d'engrais binaires ; ils découragent quiconque tenterait de s'introduire illégalement dans les zones de récolte. Sa présence sur le terrain renforce la résistance de tous vos alliés cultivateurs, leur offrant une défense inébranlable face aux attaques. Un renégat au grand cœur qui préfère la force tranquille à la violence gratuite.",
-  "stock": 18,
-  "price": 300,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Musclé.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Acier"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Iris Brillant"
+      ],
+      "type": "Observateur",
+      "element": "Insondable"
+    }
+  },
+  {
+    "id": "carte-011",
+    "name": "Vito marcelle gros bras",
+    "rarity": "Peu Commun",
+    "description": "Vito marcelle gros bras n'est pas seulement un expert en culture de données, c'est aussi le protecteur physique des serres numériques. Ses bras massifs ne servent pas qu'à porter des sacs d'engrais binaires ; ils découragent quiconque tenterait de s'introduire illégalement dans les zones de récolte. Sa présence sur le terrain renforce la résistance de tous vos alliés cultivateurs, leur offrant une défense inébranlable face aux attaques. Un renégat au grand cœur qui préfère la force tranquille à la violence gratuite.",
+    "stock": 18,
+    "price": 300,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Musclé.png"
     ],
-    "type": "Cultivateur",
-    "element": "Renégat Neutre"
-  }
-},
-
-{
-  "id": "carte-012",
-  "name": "Vito l'Omniscient",
-  "rarity": "Peu Commun",
-  "description": "Vito l'Omniscient ne dort jamais. Ses yeux, modifiés par des années d'observation intensive de flux de données binaires, ont acquis la capacité unique de percevoir les anomalies avant même qu'elles ne se manifestent réellement dans le système. Dans la hiérarchie complexe de la Cité des Données, il joue le rôle de sentinelle, capable de déceler les intentions cachées des programmes malveillants d'un simple regard. Sa vision panoramique est un atout stratégique indispensable pour sécuriser toute infrastructure réseau contre les menaces invisibles.",
-  "stock": 15,
-  "price": 280,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_GrosYeux.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Néon"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Acier"
+      ],
+      "type": "Cultivateur",
+      "element": "Renégat Neutre"
+    }
+  },
+  {
+    "id": "carte-012",
+    "name": "Vito l'Omniscient",
+    "rarity": "Peu Commun",
+    "description": "Vito l'Omniscient ne dort jamais. Ses yeux, modifiés par des années d'observation intensive de flux de données binaires, ont acquis la capacité unique de percevoir les anomalies avant même qu'elles ne se manifestent réellement dans le système. Dans la hiérarchie complexe de la Cité des Données, il joue le rôle de sentinelle, capable de déceler les intentions cachées des programmes malveillants d'un simple regard. Sa vision panoramique est un atout stratégique indispensable pour sécuriser toute infrastructure réseau contre les menaces invisibles.",
+    "stock": 15,
+    "price": 280,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_GrosYeux.png"
     ],
-    "type": "Observateur",
-    "element": "Insondable"
-  }
-},
-
-{
-  "id": "carte-013",
-  "name": "Vito Cuisinier",
-  "rarity": "Peu Commun",
-  "description": "Vito Cuisinier est le maître des saveurs de la Cité des Données. Dans sa cuisine high-tech, il concocte des algorithmes culinaires capables de restaurer la santé des processeurs les plus fatigués. Ses repas ne se contentent pas de nourrir ; ils réparent les secteurs défectueux et optimisent les performances système. Si l'un de vos personnages est en état de famine énergétique, les talents d'artisan de Vito permettent de doubler l'efficacité de la restauration pour un retour au combat immédiat.",
-  "stock": 22,
-  "price": 220,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Cuisinier.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Toque Blanche"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Néon"
+      ],
+      "type": "Observateur",
+      "element": "Insondable"
+    }
+  },
+  {
+    "id": "carte-013",
+    "name": "Vito Cuisinier",
+    "rarity": "Peu Commun",
+    "description": "Vito Cuisinier est le maître des saveurs de la Cité des Données. Dans sa cuisine high-tech, il concocte des algorithmes culinaires capables de restaurer la santé des processeurs les plus fatigués. Ses repas ne se contentent pas de nourrir ; ils réparent les secteurs défectueux et optimisent les performances système. Si l'un de vos personnages est en état de famine énergétique, les talents d'artisan de Vito permettent de doubler l'efficacité de la restauration pour un retour au combat immédiat.",
+    "stock": 22,
+    "price": 220,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Cuisinier.png"
     ],
-    "type": "Artisan",
-    "element": "Neutre"
-  }
-},
-
-{
-  "id": "carte-014",
-  "name": "Vito chapeau de paille",
-  "rarity": "Peu Commun",
-  "description": "Vito chapeau de paille est le maître incontesté de l'agriculture de données. Sous son large chapeau, il cache une connaissance ancestrale des cycles de récolte numériques. En sa présence, tous les alliés cultivateurs voient leur défense renforcée par son expérience du terrain. Si vous parvenez à sécuriser une 'Serre de Données', il peut alors utiliser toute son ingéniosité pour récolter des points de données vitaux pour votre progression dans le jeu. Un personnage terre-à-terre mais terriblement efficace dans une stratégie de gestion de ressources.",
-  "stock": 18,
-  "price": 300,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_ChapeauDePaille.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Paille dorée"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Toque Blanche"
+      ],
+      "type": "Artisan",
+      "element": "Neutre"
+    }
+  },
+  {
+    "id": "carte-014",
+    "name": "Vito chapeau de paille",
+    "rarity": "Peu Commun",
+    "description": "Vito chapeau de paille est le maître incontesté de l'agriculture de données. Sous son large chapeau, il cache une connaissance ancestrale des cycles de récolte numériques. En sa présence, tous les alliés cultivateurs voient leur défense renforcée par son expérience du terrain. Si vous parvenez à sécuriser une 'Serre de Données', il peut alors utiliser toute son ingéniosité pour récolter des points de données vitaux pour votre progression dans le jeu. Un personnage terre-à-terre mais terriblement efficace dans une stratégie de gestion de ressources.",
+    "stock": 18,
+    "price": 300,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_ChapeauDePaille.png"
     ],
-    "type": "Cultivateur",
-    "element": "Renégat Neutre"
-  }
-},
-
-{
-  "id": "carte-015",
-  "name": "Vito Bandana",
-  "rarity": "Peu Commun",
-  "description": "Vito Bandana est le stratège silencieux des zones d'ombre de la Cité des Données. Son bandeau n'est pas qu'un accessoire de style, il symbolise sa concentration absolue lorsqu'il prépare ses attaques de précision. Tant qu'il reste discret et n'est pas la cible directe de l'ennemi, il peut infliger des dégâts critiques à n'importe quelle cible sur le réseau. Son mélange unique de loyauté envers ses alliés et de nature de renégat neutre en fait un joker imprévisible mais redoutable pour tout joueur cherchant à contrôler le terrain avec subtilité.",
-  "stock": 15,
-  "price": 380,
-  "currency": "Y-credit",
-  "images": [
-    "Vito_Bandana.png"
-  ],
-  "variants": {
-    "colors": [
-      "Classique",
-      "Vert Kaki"
+    "variants": {
+      "colors": [
+        "Classique",
+        "Paille dorée"
+      ],
+      "type": "Cultivateur",
+      "element": "Renégat Neutre"
+    }
+  },
+  {
+    "id": "carte-015",
+    "name": "Vito Bandana",
+    "rarity": "Peu Commun",
+    "description": "Vito Bandana est le stratège silencieux des zones d'ombre de la Cité des Données. Son bandeau n'est pas qu'un accessoire de style, il symbolise sa concentration absolue lorsqu'il prépare ses attaques de précision. Tant qu'il reste discret et n'est pas la cible directe de l'ennemi, il peut infliger des dégâts critiques à n'importe quelle cible sur le réseau. Son mélange unique de loyauté envers ses alliés et de nature de renégat neutre en fait un joker imprévisible mais redoutable pour tout joueur cherchant à contrôler le terrain avec subtilité.",
+    "stock": 15,
+    "price": 380,
+    "currency": "Y-credit",
+    "images": [
+      "Vito_Bandana.png"
     ],
-    "type": "Allié",
-    "element": "Renégat Neutre"
-  }
-},
-
-{
+    "variants": {
+      "colors": [
+        "Classique",
+        "Vert Kaki"
+      ],
+      "type": "Allié",
+      "element": "Renégat Neutre"
+    }
+  },
+  {
     "id": "carte-016",
     "name": "Vito Handi",
     "rarity": "Rare",
@@ -278,14 +267,18 @@
     "stock": 8,
     "price": 650,
     "currency": "Y-credit",
-    "images": ["Vito_Handi.png"],
+    "images": [
+      "Vito_Handi.png"
+    ],
     "variants": {
-      "colors": ["Bronze Antique", "Chrome"],
+      "colors": [
+        "Bronze Antique",
+        "Chrome"
+      ],
       "type": "Technologie Tactique",
       "element": "Loyal"
     }
   },
-
   {
     "id": "carte-017",
     "name": "Vito Furry",
@@ -294,14 +287,18 @@
     "stock": 10,
     "price": 550,
     "currency": "Y-credit",
-    "images": ["Vito_Furry.png"],
+    "images": [
+      "Vito_Furry.png"
+    ],
     "variants": {
-      "colors": ["Nature", "Néon"],
+      "colors": [
+        "Nature",
+        "Néon"
+      ],
       "type": "Créature / Allié",
       "element": "Indépendant"
     }
   },
-
   {
     "id": "carte-018",
     "name": "Vito Low Tapper",
@@ -310,14 +307,18 @@
     "stock": 7,
     "price": 750,
     "currency": "Y-credit",
-    "images": ["Vito_LowTapper.png"],
+    "images": [
+      "Vito_LowTapper.png"
+    ],
     "variants": {
-      "colors": ["Or Noir", "Argent"],
+      "colors": [
+        "Or Noir",
+        "Argent"
+      ],
       "type": "Analyste",
       "element": "Neutre"
     }
   },
-
   {
     "id": "carte-019",
     "name": "Vito Or",
@@ -326,14 +327,18 @@
     "stock": 6,
     "price": 800,
     "currency": "Y-credit",
-    "images": ["Vito_Or.png"],
+    "images": [
+      "Vito_Or.png"
+    ],
     "variants": {
-      "colors": ["Or Pur", "Platine"],
+      "colors": [
+        "Or Pur",
+        "Platine"
+      ],
       "type": "Arsenal",
       "element": "Ordre"
     }
   },
-
   {
     "id": "carte-020",
     "name": "Vito Kratos",
@@ -342,14 +347,18 @@
     "stock": 5,
     "price": 850,
     "currency": "Y-credit",
-    "images": ["Vito_Kratos.png"],
+    "images": [
+      "Vito_Kratos.png"
+    ],
     "variants": {
-      "colors": ["Givre", "Sang"],
+      "colors": [
+        "Givre",
+        "Sang"
+      ],
       "type": "Jarl / Guerrier",
       "element": "Nord"
     }
   },
-
   {
     "id": "carte-021",
     "name": "Vito, Maître de la Corruption",
@@ -358,14 +367,18 @@
     "stock": 3,
     "price": 1500,
     "currency": "Y-credit",
-    "images": ["Vito_Villain.png"],
+    "images": [
+      "Vito_Villain.png"
+    ],
     "variants": {
-      "colors": ["Néon Violet", "Ombre"],
+      "colors": [
+        "Néon Violet",
+        "Ombre"
+      ],
       "type": "Antagoniste",
       "element": "Corrompu"
     }
   },
-
   {
     "id": "carte-022",
     "name": "Vito, Plombier Élite",
@@ -374,14 +387,18 @@
     "stock": 4,
     "price": 1200,
     "currency": "Y-credit",
-    "images": ["Vito_Plombier.png"],
+    "images": [
+      "Vito_Plombier.png"
+    ],
     "variants": {
-      "colors": ["Bleu Ouvrier", "Or Collector"],
+      "colors": [
+        "Bleu Ouvrier",
+        "Or Collector"
+      ],
       "type": "Artisan / Expert",
       "element": "Neutre"
     }
   },
-
   {
     "id": "carte-023",
     "name": "Vito Sensei",
@@ -390,14 +407,18 @@
     "stock": 3,
     "price": 1600,
     "currency": "Y-credit",
-    "images": ["Vito_Gojo.png"],
+    "images": [
+      "Vito_Gojo.png"
+    ],
     "variants": {
-      "colors": ["Aura Blanche", "Traditionnel"],
+      "colors": [
+        "Aura Blanche",
+        "Traditionnel"
+      ],
       "type": "Exorciste / Sensei",
       "element": "Ordre"
     }
   },
-
   {
     "id": "carte-024",
     "name": "Vito, Espion Agent",
@@ -406,15 +427,19 @@
     "stock": 3,
     "price": 1400,
     "currency": "Y-credit",
-    "images": ["Vito_Espion.png"],
+    "images": [
+      "Vito_Espion.png"
+    ],
     "variants": {
-      "colors": ["Costume Sombre", "Infrarouge"],
+      "colors": [
+        "Costume Sombre",
+        "Infrarouge"
+      ],
       "type": "Agent / Infiltrateur",
       "element": "Neutre"
     }
   },
-
-{
+  {
     "id": "carte-025",
     "name": "Vito, l'Omniscience Émergeante",
     "rarity": "Légendaire",
@@ -422,14 +447,18 @@
     "stock": 1,
     "price": 4500,
     "currency": "Y-credit",
-    "images": ["Vito_Omniscient.png"],
+    "images": [
+      "Vito_Omniscient.png"
+    ],
     "variants": {
-      "colors": ["Cosmique", "Prisme"],
+      "colors": [
+        "Cosmique",
+        "Prisme"
+      ],
       "type": "Divinité",
       "element": "Neutre"
     }
   },
-
   {
     "id": "carte-026",
     "name": "Vito, le Technomancien de l'Archive",
@@ -438,14 +467,18 @@
     "stock": 2,
     "price": 3500,
     "currency": "Y-credit",
-    "images": ["Vito_Armur.png"],
+    "images": [
+      "Vito_Armur.png"
+    ],
     "variants": {
-      "colors": ["Cyber Vert", "Platine"],
+      "colors": [
+        "Cyber Vert",
+        "Platine"
+      ],
       "type": "Héros",
       "element": "Neutre"
     }
   },
-
   {
     "id": "carte-027",
     "name": "Vito Yakuza",
@@ -454,12 +487,16 @@
     "stock": 2,
     "price": 4000,
     "currency": "Y-credit",
-    "images": ["Vito_Yakuzaa.png"],
+    "images": [
+      "Vito_Yakuzaa.png"
+    ],
     "variants": {
-      "colors": ["Holographique", "Or Antique"],
+      "colors": [
+        "Holographique",
+        "Or Antique"
+      ],
       "type": "Chef",
       "element": "Neutre"
     }
   }
-
 ]

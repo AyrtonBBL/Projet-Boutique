@@ -8,17 +8,20 @@
 </head>
 <body>
 <header>
-    <!-- lien qui permet de revenir sur le catalogue -->
-    <h1><a href="index.html" class="logo-link">Y-Shop : Collection Vito Yakuza</a></h1>
+    <h1><a href="index.html" class="logo-link">TCG VITO - Collection</a></h1>
     <nav>
-        <button id="cart-btn">Panier (0)</button>
-        <button id="fav-btn">Mes Favoris</button>
+        <button id="cart-btn" class="nav-btn">Panier (0)</button>
+        <button id="fav-btn" class="nav-btn">Mes Favoris (0)</button>
     </nav>
 </header>
 
-<main>
+<main class="main-content">
+    <div class="back-nav">
+        <a href="index.html" class="btn back-btn"><- Retour au catalogue</a>
+    </div>
+
     <div id="product-container" class="product-details-layout">
-        <p>Chargement de la carte...</p>
+        <div class="loader">Chargement de la carte épique de Vito...</div>
     </div>
 </main>
 

@@ -1,10 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mes Favoris - Y-Shop</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-$END$
+<header>
+    <h1><a href="index.html" class="logo-link">TCG VITO - Collection</a></h1>
+    <nav>
+        <button id="cart-btn" class="nav-btn">Panier (0)</button>
+        <button id="fav-btn" class="nav-btn">Mes Favoris (0)</button>
+    </nav>
+</header>
+
+<main class="main-content">
+    <div class="back-nav">
+        <a href="index.html" class="btn back-btn">◀ Retour au catalogue</a>
+    </div>
+
+    <div class="product-details-layout">
+        <h2 style="width: 100%; margin-top: 0;">Mes Cartes Favorites</h2>
+        <div id="favorites-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; width: 100%;">
+            <p>Chargement de vos favoris...</p>
+        </div>
+    </div>
+</main>
+
+<script src="js/favorites.js"></script>
 </body>
 </html>
